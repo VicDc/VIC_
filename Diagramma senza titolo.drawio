@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T21:56:48.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="20.7.4" etag="xeB9d3XYMUamve_9uiKC" type="github"><diagram id="FIGp5IZMBJaPL0WWEf3H">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-27T22:04:38.947Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="20.7.4" etag="YFm7qmD1dA8qjIJOtTtl" type="github">
+  <diagram id="8X1ZL8S6vHW47Kgzrhxl" name="Pagina-1">
+    <mxGraphModel dx="2056" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rjjx5bZKMhjFJTsJ8OL9-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rjjx5bZKMhjFJTsJ8OL9-1" target="rjjx5bZKMhjFJTsJ8OL9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rjjx5bZKMhjFJTsJ8OL9-1" value="ORDINE CLIENTE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="239" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rjjx5bZKMhjFJTsJ8OL9-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rjjx5bZKMhjFJTsJ8OL9-2" target="rjjx5bZKMhjFJTsJ8OL9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rjjx5bZKMhjFJTsJ8OL9-2" value="ORDINE PRODIZIONE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="459" y="190" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rjjx5bZKMhjFJTsJ8OL9-5" value="MAGAZZINO" style="whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="10" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rjjx5bZKMhjFJTsJ8OL9-6" value="&lt;ul&gt;&lt;li&gt;Date&lt;/li&gt;&lt;li&gt;Articoli&lt;/li&gt;&lt;li&gt;Qtà&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;align=left;" vertex="1" parent="1">
+          <mxGeometry x="459" y="300" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rjjx5bZKMhjFJTsJ8OL9-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rjjx5bZKMhjFJTsJ8OL9-13" target="rjjx5bZKMhjFJTsJ8OL9-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rjjx5bZKMhjFJTsJ8OL9-13" value="ORDINE" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rjjx5bZKMhjFJTsJ8OL9-14" value="IDArt&lt;br&gt;Data ordine&lt;br&gt;Data consegna" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="440" width="120" height="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
