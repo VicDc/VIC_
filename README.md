@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Uruz01
-- 👀 I’m interested in cyber security and data analysis
+- 👀 I’m interested in Data Science and AI
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on everything to learn new languages
-- 📫 How to reach me, write me.
+- 🫱🏼‍🫲🏾 I’m looking to collaborate on everything to learn new languages
+- 📧 How to reach me, write me.
 Thank you
 
 <!---
