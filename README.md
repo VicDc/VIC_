@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Uruz01
+- 👋 Hi, I AM VIC
 - 👀 I’m interested in Data Science and AI
 - 🌱 I’m currently learning python
 - 🫱🏼‍🫲🏾 I’m looking to collaborate on everything to learn new languages
